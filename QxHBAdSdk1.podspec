@@ -19,6 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
+This is for testing purpose, we'll create a iOS sdk later.
                        DESC
 
   s.homepage         = 'https://github.com/FrankZheng/QxHBAdSdk1'
