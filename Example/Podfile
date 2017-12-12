@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'QxHBAdSdk1_Example' do
+  pod 'QxHBAdSdk1', :path => '../'
+
+  target 'QxHBAdSdk1_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
