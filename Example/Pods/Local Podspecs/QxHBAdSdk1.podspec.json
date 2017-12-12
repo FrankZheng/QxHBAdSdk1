@@ -1,0 +1,22 @@
+{
+  "name": "QxHBAdSdk1",
+  "version": "0.1.0",
+  "summary": "A short description of QxHBAdSdk1.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hustzxq524@gmail.com/QxHBAdSdk1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hustzxq524@gmail.com": "frank.zheng@vungle.com"
+  },
+  "source": {
+    "git": "https://github.com/hustzxq524@gmail.com/QxHBAdSdk1.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QxHBAdSdk1/Classes/**/*"
+}

@@ -7,12 +7,16 @@
 //
 
 #import "QxHBAdSdkAppDelegate.h"
+#import "QxHBAdSdk1/MyPodAPI1.h"
 
 @implementation QxHBAdSdkAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    MyPodAPI1* api = [[MyPodAPI1 alloc] init];
+    [api sayHello:@"Frank"];
+    
     return YES;
 }
 
